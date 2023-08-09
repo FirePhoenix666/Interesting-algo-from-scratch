@@ -1,4 +1,4 @@
 # Interesting-algo-from-scratch
-Reproduce papers that I find interesting from scratch 
 
-tsne - [Visualising Data Using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) 
+
+[t_sne_from_scratch.ipynb] - [Visualising Data Using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) 
